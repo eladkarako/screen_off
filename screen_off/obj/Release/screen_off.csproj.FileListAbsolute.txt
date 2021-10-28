@@ -1,0 +1,4 @@
+D:\Documents\SharpDevelop Projects\screen_off\screen_off\bin\Release\screen_off.exe.config
+D:\Documents\SharpDevelop Projects\screen_off\screen_off\bin\Release\screen_off.exe
+D:\Documents\SharpDevelop Projects\screen_off\screen_off\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\SharpDevelop Projects\screen_off\screen_off\obj\Release\screen_off.exe
